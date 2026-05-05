@@ -1,4 +1,4 @@
-# ExTracker - Expense tracker with monthly analysis
+# ExTracker - Premium Personal Finance Application
 
 ExTracker is a full-stack, responsive, and secure personal finance application built on the MERN stack (MongoDB, Express.js, React, Node.js). It empowers users to take control of their finances with advanced expense tracking, smart category budgeting, long-term savings goals, and deep visual analytics.
 
